@@ -1,0 +1,85 @@
+report_id,zone_id,date,report_type,severity,resolved
+CR-3001,WL-1001,2026-01-01,Water depth,Low,False
+CR-3002,WL-1002,2026-02-02,Blocked drain,Moderate,True
+CR-3003,WL-1003,2026-03-03,Road obstruction,High,True
+CR-3004,WL-1004,2026-04-04,Drain overflow,Low,True
+CR-3005,WL-1005,2026-05-05,Traffic disruption,Moderate,True
+CR-3006,WL-1006,2026-06-06,Access issue,High,False
+CR-3007,WL-1007,2026-07-07,Critical facility access,Low,True
+CR-3008,WL-1008,2026-08-08,Water depth,Moderate,True
+CR-3009,WL-1009,2026-09-09,Blocked drain,High,True
+CR-3010,WL-1010,2026-01-10,Road obstruction,Low,True
+CR-3011,WL-1011,2026-02-11,Drain overflow,Moderate,False
+CR-3012,WL-1012,2026-03-12,Traffic disruption,High,True
+CR-3013,WL-1013,2026-04-13,Access issue,Low,True
+CR-3014,WL-1014,2026-05-14,Critical facility access,Moderate,True
+CR-3015,WL-1015,2026-06-15,Water depth,High,True
+CR-3016,WL-1016,2026-07-16,Blocked drain,Low,False
+CR-3017,WL-1017,2026-08-17,Road obstruction,Moderate,True
+CR-3018,WL-1018,2026-09-18,Drain overflow,High,True
+CR-3019,WL-1019,2026-01-19,Traffic disruption,Low,True
+CR-3020,WL-1020,2026-02-20,Access issue,Moderate,True
+CR-3021,WL-1021,2026-03-21,Critical facility access,High,False
+CR-3022,WL-1022,2026-04-22,Water depth,Low,True
+CR-3023,WL-1023,2026-05-23,Blocked drain,Moderate,True
+CR-3024,WL-1024,2026-06-24,Road obstruction,High,True
+CR-3025,WL-1025,2026-07-25,Drain overflow,Low,True
+CR-3026,WL-1026,2026-08-26,Traffic disruption,Moderate,False
+CR-3027,WL-1027,2026-09-27,Access issue,High,True
+CR-3028,WL-1028,2026-01-01,Critical facility access,Low,True
+CR-3029,WL-1001,2026-02-02,Water depth,Moderate,True
+CR-3030,WL-1002,2026-03-03,Blocked drain,High,True
+CR-3031,WL-1003,2026-04-04,Road obstruction,Low,False
+CR-3032,WL-1004,2026-05-05,Drain overflow,Moderate,True
+CR-3033,WL-1005,2026-06-06,Traffic disruption,High,True
+CR-3034,WL-1006,2026-07-07,Access issue,Low,True
+CR-3035,WL-1007,2026-08-08,Critical facility access,Moderate,True
+CR-3036,WL-1008,2026-09-09,Water depth,High,False
+CR-3037,WL-1009,2026-01-10,Blocked drain,Low,True
+CR-3038,WL-1010,2026-02-11,Road obstruction,Moderate,True
+CR-3039,WL-1011,2026-03-12,Drain overflow,High,True
+CR-3040,WL-1012,2026-04-13,Traffic disruption,Low,True
+CR-3041,WL-1013,2026-05-14,Access issue,Moderate,False
+CR-3042,WL-1014,2026-06-15,Critical facility access,High,True
+CR-3043,WL-1015,2026-07-16,Water depth,Low,True
+CR-3044,WL-1016,2026-08-17,Blocked drain,Moderate,True
+CR-3045,WL-1017,2026-09-18,Road obstruction,High,True
+CR-3046,WL-1018,2026-01-19,Drain overflow,Low,False
+CR-3047,WL-1019,2026-02-20,Traffic disruption,Moderate,True
+CR-3048,WL-1020,2026-03-21,Access issue,High,True
+CR-3049,WL-1021,2026-04-22,Critical facility access,Low,True
+CR-3050,WL-1022,2026-05-23,Water depth,Moderate,True
+CR-3051,WL-1023,2026-06-24,Blocked drain,High,False
+CR-3052,WL-1024,2026-07-25,Road obstruction,Low,True
+CR-3053,WL-1025,2026-08-26,Drain overflow,Moderate,True
+CR-3054,WL-1026,2026-09-27,Traffic disruption,High,True
+CR-3055,WL-1027,2026-01-01,Access issue,Low,True
+CR-3056,WL-1028,2026-02-02,Critical facility access,Moderate,False
+CR-3057,WL-1001,2026-03-03,Water depth,High,True
+CR-3058,WL-1002,2026-04-04,Blocked drain,Low,True
+CR-3059,WL-1003,2026-05-05,Road obstruction,Moderate,True
+CR-3060,WL-1004,2026-06-06,Drain overflow,High,True
+CR-3061,WL-1005,2026-07-07,Traffic disruption,Low,False
+CR-3062,WL-1006,2026-08-08,Access issue,Moderate,True
+CR-3063,WL-1007,2026-09-09,Critical facility access,High,True
+CR-3064,WL-1008,2026-01-10,Water depth,Low,True
+CR-3065,WL-1009,2026-02-11,Blocked drain,Moderate,True
+CR-3066,WL-1010,2026-03-12,Road obstruction,High,False
+CR-3067,WL-1011,2026-04-13,Drain overflow,Low,True
+CR-3068,WL-1012,2026-05-14,Traffic disruption,Moderate,True
+CR-3069,WL-1013,2026-06-15,Access issue,High,True
+CR-3070,WL-1014,2026-07-16,Critical facility access,Low,True
+CR-3071,WL-1015,2026-08-17,Water depth,Moderate,False
+CR-3072,WL-1016,2026-09-18,Blocked drain,High,True
+CR-3073,WL-1017,2026-01-19,Road obstruction,Low,True
+CR-3074,WL-1018,2026-02-20,Drain overflow,Moderate,True
+CR-3075,WL-1019,2026-03-21,Traffic disruption,High,True
+CR-3076,WL-1020,2026-04-22,Access issue,Low,False
+CR-3077,WL-1021,2026-05-23,Critical facility access,Moderate,True
+CR-3078,WL-1022,2026-06-24,Water depth,High,True
+CR-3079,WL-1023,2026-07-25,Blocked drain,Low,True
+CR-3080,WL-1024,2026-08-26,Road obstruction,Moderate,True
+CR-3081,WL-1025,2026-09-27,Drain overflow,High,False
+CR-3082,WL-1026,2026-01-01,Traffic disruption,Low,True
+CR-3083,WL-1027,2026-02-02,Access issue,Moderate,True
+CR-3084,WL-1028,2026-03-03,Critical facility access,High,True
